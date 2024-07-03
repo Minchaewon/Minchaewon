@@ -1,4 +1,4 @@
-## This is chaewon's github👋🏻
+## Hi there, I am Chaewon Min👋🏻
 
 <!--타이틀 부분-->
 <div align="center">
