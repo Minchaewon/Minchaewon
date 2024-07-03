@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=A9D0F5&height=300&section=header&text=Welcome!&fontSize=90)
 <!--
 **Minchaewon/Minchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
