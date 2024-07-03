@@ -67,7 +67,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minchaewon&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" alt="Chaewon's GitHub stats"/>
   </a>
 </p>
-
 <!--
 **Minchaewon/Minchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
