@@ -1,5 +1,6 @@
-## Hello everyone👋🏻
-![header](https://capsule-render.vercel.app/api?type=venom&color=A9D0F5&height=300&section=header&text=Welcome!&fontSize=90)
+## This is chaewon's github👋🏻
+![header](https://capsule-render.vercel.app/api?type=waving&color=A9D0F5&height=300&section=header&text=Welcome!&fontSize=90&fontColor=424242)
+
 <!--
 **Minchaewon/Minchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
