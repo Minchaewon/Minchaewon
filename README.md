@@ -51,6 +51,21 @@
   </a>
 </div>
 
+<!--깃허브 스탯 카드-->
+<br>
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/Minchaewon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minchaewon&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord"/>
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/Minchaewon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minchaewon&hide=true&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+  </a>
+</p>
+
 <!--
 **Minchaewon/Minchaewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
