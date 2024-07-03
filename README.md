@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=81BEF7&height=300&section=header&text=Welcome!&fontSize=90&fontColor=000000"/>
 </div>
-
+<hr>
 <!--내용 부분-->
 <h3 align="center">📖 Studying 📖</h3>
 <div align="center">
@@ -51,18 +51,20 @@
   </a>
 </div>
 
+<hr>
+
 <!--깃허브 스탯 카드-->
-<br>
-<h3 align="center">💡 My Most Used Languages 💡</h3>
+<h3 align="center">⚡ My Most Used Languages ⚡</h3>
 <p align="center">
   <a href="https://github.com/Minchaewon">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minchaewon&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord"/>
   </a>
 </p>
-<h3 align="center">💡 My Git Stats 💡</h3>
+
+<h3 align="center">🌱 My Git Stats 🌱</h3>
 <p align="center">
   <a href="https://github.com/Minchaewon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minchaewon&hide=true&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Minchaewon&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" alt="Chaewon's GitHub stats"/>
   </a>
 </p>
 
