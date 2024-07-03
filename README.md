@@ -48,7 +48,7 @@
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
+  <a href="https://www.google.com/intl/ko/gmail/about/">
     <img
       src="https://img.shields.io/badge/mcw75398280@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
